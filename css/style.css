@@ -305,6 +305,7 @@ footer a {
 .rightLarge{
   display: block;
   width:60%;
-  float:right;
+  float:left;
+  merge:2%;
 }
 /* code examples copyright Jonathan Grover 2012 */
