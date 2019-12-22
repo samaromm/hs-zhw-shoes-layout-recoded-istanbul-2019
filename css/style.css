@@ -338,14 +338,7 @@ section {
 .col1{
   float: left;
   width: 32%;
-  margin-left: 0%;
+  margin-left: 2%;
 }
 
-.col2{
-  
-}
-
-.col3{
-  
-}
 /* code examples copyright Jonathan Grover 2012 */
