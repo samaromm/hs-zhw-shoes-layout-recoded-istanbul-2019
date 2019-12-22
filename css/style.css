@@ -302,4 +302,48 @@ footer a {
   text-decoration: underline;
 }
 
+.rightLarge{
+  display: block;
+  width:66%;
+  float:left;
+  margin-left:0%;
+}
+
+.clearfix:after{
+  content:".";
+  display: block;
+  clear:both;
+  visibility: hidden;
+  height: 0;
+  line-height: 0;
+}
+
+.shoeArchive{
+  display: block;
+  float:right;
+  width:32%;
+  margin-left: 2%;
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.col1{
+  float: left;
+  width: 32%;
+  margin-left: 2%;
+}
+
+.col2{
+  float: left;
+  width: 32%;
+  margin-left: 0%;
+}
 /* code examples copyright Jonathan Grover 2012 */
