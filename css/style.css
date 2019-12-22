@@ -306,6 +306,6 @@ footer a {
   display: block;
   width:60%;
   float:left;
-  merge:2%;
+  margin:2%;
 }
 /* code examples copyright Jonathan Grover 2012 */
