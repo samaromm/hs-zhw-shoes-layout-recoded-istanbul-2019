@@ -308,4 +308,9 @@ footer a {
   float:left;
   margin:3%;
 }
+
+.shoeArchive{
+  float:right;
+  width:37%;
+}
 /* code examples copyright Jonathan Grover 2012 */
