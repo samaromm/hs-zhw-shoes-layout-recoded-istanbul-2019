@@ -306,7 +306,7 @@ footer a {
   display: block;
   width:66%;
   float:left;
-  margin:3px;
+  margin-left:0%;
 }
 
 .clearfix:after{
